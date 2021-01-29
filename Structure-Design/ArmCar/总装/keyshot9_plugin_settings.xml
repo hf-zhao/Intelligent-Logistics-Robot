@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<keyshot9_plugin_settings>
+    <tessellationQuality>0.200000</tessellationQuality>
+    <upAxis>1</upAxis>
+    <selectionMode>automatic</selectionMode>
+    <includeNURBS>true</includeNURBS>
+    <separateMaterials>true</separateMaterials>
+    <useAssemblyMaterials>false</useAssemblyMaterials>
+    <promptForMechanism>false</promptForMechanism>
+    <exportPath></exportPath>
+    <fraPath></fraPath>
+</keyshot9_plugin_settings>
